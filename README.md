@@ -22,6 +22,23 @@
 </p>
 
 
+<p align="center">
+  <!-- Version 1.2 -->
+  <a href="https://github.com/BayLak-Egypt/UnistMemes-Encryption/releases/download/v1.2/UnistMemes.Encryption.v1.2.7z">
+    <img src="https://img.shields.io/badge/Windows-V1.2-Download_7z-blue?style=for-the-badge&logo=windows" alt="Download V1.2">
+  </a>
+  
+  <!-- Version 1.1 -->
+  <a href="https://github.com/BayLak-Egypt/UnistMemes-Encryption/releases/download/v1.1/UnistMemes.Encryption.v1.1.exe">
+    <img src="https://img.shields.io/badge/Windows-V1.1-Download_EXE-green?style=for-the-badge&logo=windows" alt="Download V1.1">
+  </a>
+
+  <!-- Version 1.0 -->
+  <a href="https://github.com/BayLak-Egypt/UnistMemes-Encryption/releases/download/v1.0/UnistMemes.Encryption.v1.0.exe">
+    <img src="https://img.shields.io/badge/Windows-V1.0-Download_EXE-grey?style=for-the-badge&logo=windows" alt="Download V1.0">
+  </a>
+</p>
+
 
 A lightweight encryption library designed for secure text and file encryption with password protection, multi-layer encryption, and Base64 packaging for reliable storage and transmission.
 
