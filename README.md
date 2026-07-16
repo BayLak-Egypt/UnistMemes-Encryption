@@ -58,4 +58,4 @@ Please use this project responsibly and ethically. Do **not** use it to harm oth
 
 **Current Version:** `v1.2`
 
-Made with ❤️ by **UnistMemes**
+Made with ❤️ by **BayLak**
