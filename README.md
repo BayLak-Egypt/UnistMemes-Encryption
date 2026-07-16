@@ -4,13 +4,13 @@
   <img src="https://github.com/user-attachments/assets/36f6bc45-7b48-44e4-91c8-ffa9e781798e" width="550" alt="UnistMemes Encryption">
 </p>
 <p align="center">
-  <a href="">
+  <a href="https://github.com/BayLak-Egypt/UnistMemes-Encryption/releases/download/v1.2/UnistMemes.Encryption.v1.2.7z">
     <img src="https://img.shields.io/badge/Windows-V1.2-Download_EXE-blue?style=for-the-badge&logo=windows" alt="Download x64">
   </a>
-  <a href="">
+  <a href="https://github.com/BayLak-Egypt/UnistMemes-Encryption/releases/download/v1.1/UnistMemes.Encryption.v1.1.exe">
     <img src="https://img.shields.io/badge/Windows-V1.1-Download_EXE-blue?style=for-the-badge&logo=windows" alt="Download x86">
   </a>
-  <a href="">
+  <a href="https://github.com/BayLak-Egypt/UnistMemes-Encryption/releases/download/v1.0/UnistMemes.Encryption.v1.0.exe">
     <img src="https://img.shields.io/badge/Windows-V1.0-Download_EXE-blue?style=for-the-badge&logo=windows" alt="Download x86">
   </a>
 </p>
