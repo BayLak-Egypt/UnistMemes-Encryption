@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "UnistMemes Encryption v1.2\\UnistMemes Encryption v1.2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Stub\\Stub.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
