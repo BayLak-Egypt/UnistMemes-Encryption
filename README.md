@@ -55,6 +55,22 @@
     <img src="https://img.shields.io/badge/Windows-V1.0-EXE-grey?style=for-the-badge&logo=windows" alt="Download V1.0">
   </a>
 </p>
+<p align="center">
+  <!-- Version 1.2 -->
+  <a href="https://github.com/BayLak-Egypt/UnistMemes-Encryption/releases/download/v1.2/UnistMemes.Encryption.v1.2.7z">
+    <img src="https://img.shields.io/badge/Windows-v1.2-blue">
+  </a>
+  
+  <!-- Version 1.1 -->
+  <a href="https://github.com/BayLak-Egypt/UnistMemes-Encryption/releases/download/v1.1/UnistMemes.Encryption.v1.1.exe">
+    <img src="https://img.shields.io/badge/Windows-v1.1-green">
+  </a>
+
+  <!-- Version 1.0 -->
+  <a href="https://github.com/BayLak-Egypt/UnistMemes-Encryption/releases/download/v1.0/UnistMemes.Encryption.v1.0.exe">
+    <img src="https://img.shields.io/badge/Windows-v1.0-grey">
+  </a>
+</p>
 
 
 
