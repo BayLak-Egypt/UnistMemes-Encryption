@@ -4,10 +4,15 @@
   <img src="https://github.com/user-attachments/assets/36f6bc45-7b48-44e4-91c8-ffa9e781798e" width="550" alt="UnistMemes Encryption">
 </p>
 
-## ✨ Features
+A lightweight encryption library designed for secure text and file encryption with password protection, multi-layer encryption, and Base64 packaging for reliable storage and transmission.
 
-### 🔑 Password-Based Encryption
-A password-based encryption system has been implemented. Instead of storing the key in plain text, it is securely protected and used to transform the data based on the provided password.
+---
+
+# ✨ Features
+
+## 🔑 Password-Based Encryption
+
+The library uses password-based encryption to securely transform data. The encryption process is driven by the provided password, ensuring that the same password is required to decrypt the data correctly.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6701f1a8-ab30-42a1-b7b1-ac59ac3601d4" alt="Password Encryption">
@@ -15,19 +20,33 @@ A password-based encryption system has been implemented. Instead of storing the 
 
 ---
 
-### 🔄 Multi-Layer Encryption
+## 🔄 Multi-Layer Encryption
+
 Supports multiple encryption layers.
 
-You can encrypt the same data several times (for example, **5** or **7** layers) in rapid succession without changing the file size or the text length.
+You can encrypt the same data several times (for example **5** or **7** layers) in rapid succession while preserving the original data length.
+
+This provides an additional layer of protection without changing the text size.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b0627345-e11a-434b-b6ab-3cd16e2cb5dc" alt="Multi Layer Encryption">
+  <img src="https://github.com/user-attachments/assets/b0627345-e11a-434b-b6ab-3cd16e2cb5dc" alt="Multi-Layer Encryption">
 </p>
 
 ---
 
-### 📁 File Encryption
-The library now supports encrypting and decrypting files directly.
+## 📦 Base64 Data Packaging
+
+Encrypted data is wrapped using **Base64 encoding** before being stored or transferred.
+
+This helps preserve the encrypted content and prevents corruption when the data passes through text-based systems, files, databases, or network protocols.
+
+> **Note:** Base64 is used only for safe packaging and transport. It is **not** an encryption method.
+
+---
+
+## 📁 File Encryption
+
+Encrypt and decrypt files directly using the same encryption engine.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0f0bcab4-f5cd-420b-b422-ca57fa2f7806" alt="File Encryption">
@@ -35,8 +54,9 @@ The library now supports encrypting and decrypting files directly.
 
 ---
 
-### 🛡️ Crypter Support
-Encryption functionality has also been integrated into the **Crypter** program.
+## 🛡️ Crypter Integration
+
+The encryption engine has also been integrated into the **Crypter** application.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6daf5a50-611b-4d70-b9ec-28a2601fbb3a" alt="Crypter">
@@ -44,18 +64,31 @@ Encryption functionality has also been integrated into the **Crypter** program.
 
 ---
 
-## ⚠️ Disclaimer
+# 🚀 Highlights
 
-This project is provided **for educational and research purposes only**.
-
-The complete source code has been made publicly available to encourage learning, experimentation, and improvement.
-
-Please use this project responsibly and ethically. Do **not** use it to harm others, violate privacy, or engage in illegal activities.
+* 🔐 Password-based encryption
+* 🔄 Multi-layer encryption support
+* 📁 File encryption and decryption
+* 📦 Base64 packaging for safe storage and transmission
+* ⚡ Fast encryption performance
+* 🛡️ Crypter integration
+* 💻 Open-source implementation
+* 🧩 Lightweight and easy to integrate
 
 ---
 
-## 📌 Version
+# ⚠️ Disclaimer
 
-**Current Version:** `v1.2`
+This project is provided **for educational and research purposes only**.
+
+The complete source code is publicly available to encourage learning, experimentation, and improvement.
+
+Please use this software responsibly. Do **not** use it for illegal activities, malicious purposes, or to violate the privacy or security of others.
+
+---
+
+# 📌 Version
+
+**Current Version:** **v1.2**
 
 Made with ❤️ by **BayLak**
